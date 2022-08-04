@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Contribute
+
+1. Get in touch with Multimedia Team.
+1. Fork any repository and made your changes.
+1. Push your changes then open a new PR.
+
 <!--
 
 **Here are some ideas to get you started:**
